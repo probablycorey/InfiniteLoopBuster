@@ -1,6 +1,6 @@
 {
   "name": "infinite-loop-buster",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Using Esprima to stop infinite loops before they happen.",
   "main": "app.js",
   "files": [
